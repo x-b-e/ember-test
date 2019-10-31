@@ -48,5 +48,9 @@
   },
   "engines": {
     "node": "8.* || >= 10.*"
+  },
+  "dependencies": {
+    "ember-composable-helpers": "^3.0.0",
+    "ember-concurrency": "^1.1.2"
   }
 }
